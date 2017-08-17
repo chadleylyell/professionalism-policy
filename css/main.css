@@ -1,0 +1,37 @@
+#title {
+	text-align: center;
+	color: red;
+	background-color: rgb(174,174,174);
+}
+
+#blue_color {
+	color: blue;
+}
+
+#bhs-logo {
+	margin-right: 15px;
+}
+
+#pro-title {
+	text-decoration: underline;
+}
+
+.row1 {
+	background-color: rgb(0,0,255,0.5);
+}
+
+.row2 {
+	background-color: rgb(255,0,0,0.5);
+}
+
+body {
+	background-color: rgb(174,174,174);
+}
+
+a {
+	color: #000;
+}
+
+a:hover {
+	color: #fff;
+}
